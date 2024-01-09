@@ -1,0 +1,222 @@
+#logo{
+    font-family: 'Afacad', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #393636;
+}
+#h1text{
+    font-family: 'Radley', serif;
+    font-weight: 300;
+    font-size: 8rem;
+    color: #2273F3;
+    text-align: center;
+    padding-top: 6rem;
+    
+}
+body{
+    background-color: #FFF8ED;
+}
+#body1{
+    background-color: #9B4819;
+    
+}
+#items{
+    color: #9B4819;
+    font-family: 'Afacad', sans-serif;
+    font-weight: 300;
+}
+#items1{
+    color: #9B4819 ;
+    font-family: 'Afacad', sans-serif;
+    font-weight: 300;
+}
+
+
+#hello{
+    font-style: italic;
+    color: #191919;
+    
+    
+}
+#sod{
+    color: #9B4819;
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='brown' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+  .navbar-toggler {
+    border: 2px solid #9B4819 ;
+  }
+#passion{
+    font-family: 'Afacad', sans-serif;
+    color: #191919;
+    font-size: 1.4rem;
+    text-align: center;
+}
+#hire{
+    font-family: 'Radley', serif;
+    font-style: italic;
+    color: #9B4819;
+    padding-top: 1rem;
+    font-size: 1.3rem;
+    text-align: center;
+    
+}
+.btn-cos{
+    background-color: #191919;
+    color: white;
+    --bs-btn-hover-color: #9B4819;
+     
+}
+.btn-cos2{
+    border-color: #9B4819;
+    color: #9B4819;
+    --bs-btn-hover-color: #191919;
+}
+#but-text{
+    font-family: 'Radley', serif;
+    
+}
+#headd{
+    padding-bottom: 10rem;
+}
+#footr{
+    font-family:  'Radley', serif;
+    color: #6f6969;
+}
+#xyon2{
+    border-top-right-radius: 250px;
+    border-bottom-left-radius: 250px;
+}
+#about-sod{
+    font-family:  'Radley', serif;
+    font-style: italic;
+    font-size: 4.5rem; 
+    color: #9B4819;
+    font-weight: lighter;
+
+}
+#internet{
+    font-family: 'Afacad', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    
+}
+#background1{
+    font-family:  'Radley', serif;
+    color: #9B4819;
+    font-size: 3rem;
+    
+}
+#background{
+    text-align: center;
+}
+.feature-icon{
+    background-color: #9B4819;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+
+}
+#educate{
+    font-family:  'Radley', serif;
+    font-size: smaller;
+    font-weight: 500;
+}
+ul{
+    list-style: none;
+}
+#a-para{
+    font-family: 'Afacad', sans-serif;
+}
+#focuses{
+    
+    color: #9B4819;
+    font-family:  'Radley', serif;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+}
+#content2{
+    color: #191919;
+    font-weight: 400;
+    font-family:  'Radley', serif;
+    font-size: 1.4rem;
+    
+    
+}
+.content3{
+    font-family: 'Afacad', sans-serif;
+    font-size: 1rem;
+    color: #584848;
+
+}
+#here{
+    font-family: 'Afacad', sans-serif;
+    font-weight: lighter;
+    color: #191919;
+    display: flex;
+    justify-content: center;
+}
+#gallery{
+    font-family: 'Afacad', sans-serif;
+    font-weight: 500;
+    color: #9B4819;
+}
+#gallery-content{
+    font-family:  'Radley', serif;
+    font-size: 1rem;
+    color: #191919;
+}
+#reality{
+    display: block;
+    width: 50%;
+    font-size: 3rem;
+    padding-top: 1rem;
+    font-family:  'Radley', serif;
+    font-weight: 500;
+    color: #FFF8ED;
+    padding-bottom: 2rem;
+    border-bottom: solid 2px;
+
+}
+@media (max-width: 600px) , (max-width: 900px) {
+    #reality{
+        width: fit-content;
+        font-size: 2rem;
+        font-weight: 500;
+    }
+}
+@media (max-width: 901px) , (max-width: 992px) {
+    #reality{
+        width: 70%;
+        font-size: 2.5rem;
+        font-weight: 500;
+    }
+}
+
+#visit{
+    font-family: 'Afacad', sans-serif;
+    color: #FFF8ED;
+    font-weight: lighter;
+    font-size: 1.3rem;
+}
+
+#mysocial{
+    font-family:  'Radley', serif;
+    font-style: italic;
+}
+#circle1{
+    border-radius: 50%;
+    background-color: #FFF8ED;
+}
+#the-end{
+    display: flex;
+    text-align: start;
+    justify-content: flex-end;
+    align-content: flex-end;
+}
+#dots{
+    color: #9B4819;
+}
